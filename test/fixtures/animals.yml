@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  category_id: 
+  born_on: 2013-11-19
+  female: false
+
+two:
+  name: MyString
+  category_id: 
+  born_on: 2013-11-19
+  female: false
